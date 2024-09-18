@@ -12,6 +12,12 @@
 ===================== E X T R A   M O D S =======================
 ===============================================================*/
 
+* {
+    font-family: "Rec Mono Firefox", "Ubuntu", "Fira Code", "Cascadia Code", "Microsoft YaHei UI" !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+}
+
 @import url("privacy_change_email_text.css");
 @import url("privacy_blur_email_in_main_menu.css");
 @import url("privacy_blur_email_in_sync_menu.css");
